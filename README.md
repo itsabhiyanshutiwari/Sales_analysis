@@ -9,8 +9,8 @@ Data collected consists of monthly sales data of the electronics store as .csv f
 Analysis:---
 This project uses Pandas and Matplotlib to answer basic sales related questions as follows:--
 
-What was the best month for sales? how much wad earend that month?
-What city has most sales?
-What time shuold we display advertisements to maximize likelihood of customer's buying product?
-What products are more often sold together?
-And What product sold the most? Why do you think its sold the most?
+What was the best month for sales? how much was earend that month?    
+What city has most sales?    
+What time shuold we display advertisements to maximize likelihood of customer's buying product?     
+What products are more often sold together?    
+And What product sold the most? Why do you think its sold the most?    
